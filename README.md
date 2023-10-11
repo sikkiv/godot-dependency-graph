@@ -1,5 +1,7 @@
 # Godot Dependency Graph creator
 
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/sikkiv/godot-dependency-graph/badge)](https://securityscorecards.dev/viewer/?uri=github.com/sikkiv/godot-dependency-graph)
+
 This is a tool to create a dependency graph in order to show proper separation of your code and also the complexity of it.
 
 ## TODOs
